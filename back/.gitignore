@@ -1,4 +1,4 @@
-/back/dist
+dist
 node_modules
 ormconfig.json
 .env
